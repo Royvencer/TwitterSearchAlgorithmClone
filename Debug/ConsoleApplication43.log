@@ -1,0 +1,4 @@
+﻿  trendtracker.cpp
+C:\Users\19565\source\repos\ConsoleApplication43\trendtracker.cpp(23,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\19565\source\repos\ConsoleApplication43\trendtracker.cpp(117,19): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication43.vcxproj -> C:\Users\19565\source\repos\ConsoleApplication43\Debug\ConsoleApplication43.exe
